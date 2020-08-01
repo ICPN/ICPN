@@ -1,4 +1,4 @@
-#ICPN 👋 #italianchineseprofessionalnetwork
+# ICPN 👋 #italianchineseprofessionalnetwork
 
 * [LinkedIn](https://www.linkedin.com/company/icpn/)
 * [Facebook](https://www.facebook.com/ICPN.official)
